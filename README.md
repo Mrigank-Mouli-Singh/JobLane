@@ -21,7 +21,7 @@ JobLane is a **full-stack job portal** built with the MERN stack. It connects **
 
 ## 🛠️ Tech Stack
 **Frontend**
-- React (Vite)  
+- React.js, Redux  
 - TailwindCSS  
 
 **Backend**
