@@ -36,7 +36,7 @@ Make sure you have **Node.js** and **npm** installed.
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/arpit189/JobLane.git
+git clone https://github.com/Mrigank-Mouli-Singh/JobLane
 cd JobLane
 ```
 2. Navigate to the frontend:
